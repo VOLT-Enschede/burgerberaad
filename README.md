@@ -24,7 +24,10 @@ Het toegankelijk maken van politiek door openheid in het creatieproces van polit
 
 Er zijn verschillende applicaties beschikbaar om met een GIT repository te kunnen syncroniseren. Deze varieren tot zeer gebruiksvriendelijk tot command line utilities. Hieronder een korte opsomming
 
-- FORK
+- Github desktop [Desktop client from GIThub](https://desktop.github.com/)
+- FORK [Fast desktop client](https://git-fork.com/)
+- Turtoise [For shell adepts](https://tortoisegit.org/)
+- Git Cola [Free open source](https://git-cola.github.io/)
 
 ## Text format
 
